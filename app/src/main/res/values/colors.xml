@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="backgroundActivities">#1A237E</color>
+    <color name="backgroundDialog">#FF8F00</color>
+    <color name="dialogText">#FFEB3B</color>
+    <color name="activitiesTextViewText">#FFFFFF</color>
+    <color name="activitiesButtonBackground1">#EEFF41</color>
+    <color name="activitiesButtonBackground2">#F44336</color>
+    <color name="closeButtonBackground">#000000</color>
+    <color name="closeButtonText">#FFFFFF</color>
+</resources>
